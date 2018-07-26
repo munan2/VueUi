@@ -39,6 +39,7 @@
           if (this.moveDisX > 0) {
             this.position = 'right'
             this.bigFlagRight = true
+            this.smallFlagRight = true
             setTimeout(function () {
               this.changeImg(this.position)
               this.canMove = true
