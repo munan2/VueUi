@@ -1,4 +1,4 @@
-# vueui
+# carousel-component
 
 > A Vue.js project
 
